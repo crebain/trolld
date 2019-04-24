@@ -20,6 +20,7 @@
     "typescript": "^3.4.5"
   },
   "dependencies": {
-    "onoff": "^4.1.1"
+    "onoff": "^4.1.1",
+    "pigpio": "^1.2.2"
   }
 }
