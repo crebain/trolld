@@ -22,6 +22,6 @@
   "dependencies": {
     "mic": "^2.1.2",
     "onoff": "^4.1.1",
-    "pigpio": "^1.2.2"
+    "pigpio": "^3.3.1"
   }
 }
